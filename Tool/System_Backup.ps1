@@ -1,0 +1,1 @@
+Checkpoint-Computer -Description "Debotnet" -RestorePointType "MODIFY_SETTINGS"

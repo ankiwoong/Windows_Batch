@@ -1,0 +1,1 @@
+Get-WmiObject -class SoftwareLicensingService | Select-object ClientMachineID >> d:\CMID_log.txt
