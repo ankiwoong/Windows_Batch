@@ -15,4 +15,4 @@
 # License : GNU
 
 # Blog
-[오늘 코딩 내일 디버깅](http://developer-ankiwoong.tistory.com/){:target="_blank"}
+[오늘 코딩 내일 디버깅](http://developer-ankiwoong.tistory.com/)
